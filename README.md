@@ -1,4 +1,4 @@
-# WFS-JS
+# WFS-PITU
 Semana do Curso Web Full Stack
 
 Adicionar link do projeto funcionando.
