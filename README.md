@@ -3,8 +3,9 @@ Semana do Curso Web Full Stack
 
 URL do Projeto: http://wfspitu.site/
 
-Entregar os PASSWORDS que aparecem durante o curso.
-
-Prazo de entrega 29/11
-
-Live dia 26/11 as 20hs
+PASSWORD #1: FOCO
+PASSWORD #2: PERSISTÊNCIA
+PASSWORD #3: ESTUDAR
+PASSWORD #4: PRATICAR
+PASSWORD #5: PROFISSIONAL
+PASSWORD #6: SUCESSO
