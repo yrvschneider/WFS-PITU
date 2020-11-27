@@ -1,7 +1,7 @@
 # WFS-PITU
 Semana do Curso Web Full Stack
 
-Adicionar link do projeto funcionando.
+URL do Projeto: http://wfspitu.site/
 
 Entregar os PASSWORDS que aparecem durante o curso.
 
